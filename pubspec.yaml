@@ -1,0 +1,15 @@
+name: kahrabai_pro
+description: كهربائي برو - متجر أدوات كهربائية V2
+publish_to: 'none'
+version: 2.0.0+2
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+
+flutter:
+  uses-material-design: true
